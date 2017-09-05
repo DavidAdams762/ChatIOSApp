@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D1182B79-7FC6-4388-86DE-B622137A0C1D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JabberClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>f35ec211-a0ea-41a8-8060-2ccf94f7f774++809</key>
+		<string>https://rendu-svn.etna-alternance.net/v2/2015_Master%20-%20Octobre_IDV-PMOB_5_0-1322/Client%2520Jabber/volga_o</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JabberClient/JabberClient.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>f35ec211-a0ea-41a8-8060-2ccf94f7f774++809</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>f35ec211-a0ea-41a8-8060-2ccf94f7f774++809</key>
+		<string>https://rendu-svn.etna-alternance.net/v2/2015_Master%20-%20Octobre_IDV-PMOB_5_0-1322</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://rendu-svn.etna-alternance.net/v2/2015_Master%20-%20Octobre_IDV-PMOB_5_0-1322/Client%2520Jabber/volga_o/JabberClient/JabberClient.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>f35ec211-a0ea-41a8-8060-2ccf94f7f774++809</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>f35ec211-a0ea-41a8-8060-2ccf94f7f774++809</string>
+			<key>IDESourceControlWCCName</key>
+			<string>volga_o</string>
+		</dict>
+	</array>
+</dict>
+</plist>
